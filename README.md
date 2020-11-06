@@ -1,3 +1,5 @@
+
+Open [Live version](https://hulu-clone-1500f.web.app/) to view it in the browser.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
